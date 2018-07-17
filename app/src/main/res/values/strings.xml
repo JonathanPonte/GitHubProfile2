@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubProfile</string>
+    <string name="button_busca">Buscar</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>
